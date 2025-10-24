@@ -3,10 +3,6 @@
        {
          "source": "/(.*)",
          "destination": "/index.html"
-       },
-       {
-        "source": "/webspatial/avp/:path*",
-        "destination": "/index.html"
-      }
+       }
     ]
    }
