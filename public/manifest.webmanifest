@@ -1,9 +1,14 @@
 {
-    "name": "Quick Example",
-  "short_name": "quick example",
+  "name": "Quick Example",
+  "short_name": "Quick Example",
   "start_url": "/",
   "icons": [
-    { "src": "/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+    { 
+      "src": "/icon.png", 
+      "sizes": "1024x1024", 
+      "type": "image/png", 
+      "purpose": "any maskable" 
+    }
   ],
     "xr_main_scene": {
       "default_size": {
